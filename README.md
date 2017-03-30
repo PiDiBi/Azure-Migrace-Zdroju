@@ -1,4 +1,4 @@
-# Azure-Migrace-Zdroju
+# Azure: Migrace zdroju do nové subscription
 Migrace zdrojů v Azure mezi subscriptions
 ## Kdy je potřeba migrace
 Když převádíte způsob placení, příklady:
