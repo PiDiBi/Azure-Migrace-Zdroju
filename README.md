@@ -28,5 +28,8 @@ _If that icon is not available, you must contact support to move the resources t
 * Pokud migrujete do jiného Active Directory tenantu
 * pokud máte níže uvedená omezení na classic zdroje
 
+* [Co můžete migrovat](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#services-that-enable-move)
+* [Co nemůžete migrovat](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#services-that-do-not-enable-move)
+
 Nástroje:
 [MigAz](https://github.com/Azure/migAz) - nástroj pro migraci z ASM do ARM nebo z AWS do Azure
