@@ -9,6 +9,8 @@ Když převádíte způsob placení, příklady:
 Popis toho, co lze migrovat přes portál a co je nutné migrovat přes support:
 * https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources
 
+__Pokud nechcete studovat co migrovat sami a co ne, jaká jsou omezení, kontaktujte support, migrace je bezvýpadková.__
+
 Výtah z předchozího odkazu:
 * obě předplatné Azure musí být pod stejným Active Directory tenantem
 * pokud nejsou, můžete ho zkusit změnit
@@ -22,11 +24,11 @@ _If that icon is not available, you must contact support to move the resources t
 
 ### Co můžete migrovat sami
 * ARM (Azure Resource Manager) zdroje
-* ASM (Classic) zdroje, kromě níže uvedených omezení
+* ASM (Classic) zdroje, kromě omezení uvedených v odkazech
 
 ### Kdy musíte požádat support o migraci
 * Pokud migrujete do jiného Active Directory tenantu
-* pokud máte níže uvedená omezení na classic zdroje
+* pokud máte omezení na classic zdroje, uvedené v následujících odkazech
 
 * [Co můžete migrovat](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#services-that-enable-move)
 * [Co nemůžete migrovat](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#services-that-do-not-enable-move)
