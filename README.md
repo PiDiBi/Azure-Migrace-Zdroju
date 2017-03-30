@@ -31,5 +31,14 @@ _If that icon is not available, you must contact support to move the resources t
 * [Co můžete migrovat](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#services-that-enable-move)
 * [Co nemůžete migrovat](https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-move-resources#services-that-do-not-enable-move)
 
-Nástroje:
+## Omezeni migrace ASM prostředků přes portál
+* všechny ASM zdroje musí být přesunuty zaráz
+* cílová subscription nesmí obsahovat žádné ASM zdroje
+
+## Migrace přes support request
+* cílová subscription musí být prázdná
+* vytvořte support request přes azure portál
+* budete muset potvrdit vlastnictví subscription
+
+## Nástroje:
 [MigAz](https://github.com/Azure/migAz) - nástroj pro migraci z ASM do ARM nebo z AWS do Azure
